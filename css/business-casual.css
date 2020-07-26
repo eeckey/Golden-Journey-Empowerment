@@ -172,11 +172,12 @@ p {
   .about-heading .about-heading-img {
     position: relative;
     z-index: 0;
+    max-width: 60vw;
   }
   .about-heading .about-heading-content {
-    margin-top: -5rem;
     position: relative;
     z-index: 1;
+    margin-bottom: -3rem;
   }
     .about .about-img {
     max-width: 50%;
