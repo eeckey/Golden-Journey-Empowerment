@@ -175,10 +175,9 @@ p {
     float: left;
   }
   .about-heading .about-heading-content {
-    width: 50%;
-    margin-top: 3rem;
-    position: absolute;
-    z-index: 1;
+	  width: 100%;
+	  height: auto;
+	  padding: 1%;
     float: right;
   }
     .about .about-img {
