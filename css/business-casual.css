@@ -175,9 +175,11 @@ p {
     float: left;
   }
   .about-heading .about-heading-content {
-    position: relative;
+    width: 50%;
+    margin-top: 3rem;
+    position: absolute;
     z-index: 1;
-    margin-bottom: -3rem;
+    float: right;
   }
     .about .about-img {
     max-width: 50%;
