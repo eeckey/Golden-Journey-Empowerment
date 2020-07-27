@@ -175,10 +175,10 @@ p {
     float: left;
   }
   .about-heading .about-heading-content {
-	  width: 100%;
-	  height: auto;
-	  padding: 1%;
-    float: right;
+    left: 0;
+    width: 60%;
+    margin-top: 3rem;
+    position: absolute;
   }
     .about .about-img {
     max-width: 50%;
