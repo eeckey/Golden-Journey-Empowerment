@@ -175,19 +175,17 @@ p {
     float: left;
   }
   .about-heading .about-heading-content {
-    left: 0;
-    width: 60%;
-    margin-top: 3rem;
+    width: 50%;
+    margin-top: 1rem;
     position: absolute;
-  }
+  } 
     .about .about-img {
     max-width: 50%;
     width: 75%;
     float: right;
   }
   .about .about-text {
-    left: 0;
-    width: 60%;
+    width: 50%;
     margin-top: 3rem;
     position: absolute;
   }
